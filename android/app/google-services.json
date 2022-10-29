@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77419664525",
+    "project_id": "divine-mercy-app-1",
+    "storage_bucket": "divine-mercy-app-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77419664525:android:071c147e910a2bc9663ec4",
+        "android_client_info": {
+          "package_name": "com.example.divine_mercy_app_the_right_way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77419664525-c2c73lgri4p0afvjm3j4li5dk5qp0uep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHlsBKwld7DX9RKs9PeHmJ91JgbfWvWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77419664525-c2c73lgri4p0afvjm3j4li5dk5qp0uep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
