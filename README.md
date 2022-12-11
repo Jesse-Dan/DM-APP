@@ -1,12 +1,9 @@
 # Full Chat Flutter App
-In this app we use
-FireBase Services(firestore - storage - auth - cloud messageing )
-Dio for api setiing such as sending remote notification with php
-Provider
+## In this app we use
+FireBase Services(firestore - auth - cloud messageing )
+Getx State management
 Notification local and remote
-# App Fucntions
-send messages like text and other file like( image - audio - document - video )
-send voice messages
-local notifications for uploading and downloading
+## App Fucntions
+send messages like text 
 remote notifications for messages notify
 user status
