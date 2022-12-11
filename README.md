@@ -4,6 +4,6 @@
 - Getx State management
 - Notification local and remote
 ## App Fucntions
-send messages like text 
-remote notifications for messages notify
-user status
+- send messages like text 
+- remote notifications for messages notify
+- user status
